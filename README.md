@@ -2,7 +2,7 @@
 
 ## Structure du projet
 
-project/
+project/ <br>
 ├── docker-compose.yml <br>
 ├── .env <br>
 ├── secrets/ <br>
