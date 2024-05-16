@@ -3,19 +3,19 @@
 ## Structure du projet
 
 project/
-├── docker-compose.yml
-├── .env
-├── secrets/
-│ ├── mysql_root_password.txt
-│ ├── mysql_database.txt
-│ ├── mysql_user.txt
-│ ├── mysql_password.txt
-│ ├── wordpress_db_password.txt
-├── wordpress/
-│ ├── Dockerfile
-├── db/
-│ ├── Dockerfile
-└── README.md
+├── docker-compose.yml <br>
+├── .env <br>
+├── secrets/ <br>
+│ ├── mysql_root_password.txt <br>
+│ ├── mysql_database.txt <br>
+│ ├── mysql_user.txt <br>
+│ ├── mysql_password.txt <br>
+│ ├── wordpress_db_password.txt <br>
+├── wordpress/ <br>
+│ ├── Dockerfile <br>
+├── db/ <br>
+│ ├── Dockerfile <br>
+└── README.md <br>
 
 ## Variables d'environnement
 
